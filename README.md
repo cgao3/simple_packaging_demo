@@ -39,6 +39,6 @@ Change will be automatically updated to installation dir.
 To see this, rerun
 ```
 >python main.py
-Hello XYZ. , current time is 2023-06-09 17:10:11.076567
+Hello XYZ. , current time is 2023-06-09 17:19:37.617674
 I've been modified
 ```
